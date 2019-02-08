@@ -1,0 +1,22 @@
+h1 {
+  font-weight: bold;
+  font-family: Island;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-family: sans-serif;
+  color: white;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+}
+ul{
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 30px;
+}
