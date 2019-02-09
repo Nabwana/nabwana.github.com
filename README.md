@@ -3,7 +3,7 @@
 ####  
 #### By **Pascal Nabwana**
 ## Description
-This i
+This is a brief webpage describing my short work here in moringa school and some of my interests and my background education
 
 
 ## Known Bugs
