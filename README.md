@@ -9,14 +9,14 @@ This is a brief webpage describing my short work here in moringa school and some
 ## Known Bugs
 There are no current bugs but if you come across any let me know
 ## Technologies Used
-HTML and css 
+HTML and css
 ## Support and contact details
-{
+contact us on my site biggiepalace"gmail.com
 ### License
 
 Copyright (c) 2019 **Pascal Nabwana**
 =======
-MIT License
+
 
 Copyright (c) 2019 Pascal Nabwana
 

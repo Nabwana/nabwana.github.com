@@ -1,9 +1,9 @@
 .master{ font-style: italic;
-color: red;
+color: black;
 }
 img{
-  width: 1000px;
-  height: 800px;
+  width: 800px;
+  height: 400px;
 }
 .hobbies{
   font-style: italic;
@@ -19,6 +19,10 @@ body{
 .list{
   text-align: justify;
 }
-img{
-  float: right;
+
+.bird{
+  padding: 6px
+}
+.nav{
+  text-align: left;
 }
