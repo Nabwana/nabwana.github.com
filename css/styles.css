@@ -2,7 +2,7 @@
 color: red;
 }
 img{
-  width: 1200px;
+  width: 1000px;
   height: 800px;
 }
 .hobbies{
@@ -10,4 +10,12 @@ img{
   }
 .centre{
   text-align: center;
+}
+body{
+  font-family: sans-serif;
+  background-color: #6699ff;
+  text-align: center;
+  }
+.list{
+  text-align: justify;
 }
