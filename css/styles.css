@@ -13,9 +13,12 @@ img{
 }
 body{
   font-family: sans-serif;
-  background-color: #6699ff;
+  background-color:#737373;
   text-align: center;
   }
 .list{
   text-align: justify;
+}
+img{
+  float: right;
 }
